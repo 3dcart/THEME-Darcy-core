@@ -40,23 +40,19 @@
         }
         ,
         {
-          "label": "Menu Links Text color", "name": "top_nav-text-color", "type": 2, "value": "000000", "group": 0
+          "label": "Menu Links Text color", "name": "top_nav-text-color", "type": 2, "value": "ffffff", "group": 0
         }
         ,
         {
-          "label": "Menu Links Text color - hover", "name": "top_nav-text-color-hover", "type": 2, "value": "8C0303", "group": 0
+          "label": "Menu Links Text color - hover", "name": "top_nav-text-color-hover", "type": 2, "value": "1a161b", "group": 0
         }
         ,
         {
-          "label": "Navigation Text color", "name": "navigation-text-color", "type": 2, "value": "5f5f5f", "group": 0
+          "label": "Navigation Text color", "name": "navigation-text-color", "type": 2, "value": "000000", "group": 0
         }
         ,
         {
-          "label": "Navigation Text color - hover", "name": "navigation-text-hover-color", "type": 2, "value": "5f5f5f", "group": 0
-        }
-        ,
-        {
-          "label": "Navigation Text background", "name": "navigation-text-hover-bg", "type": 2, "value": "f6f6e9", "group": 0
+          "label": "Navigation Text color - hover", "name": "navigation-text-hover-color", "type": 2, "value": "fc9053", "group": 0
         }
         ,
         {
@@ -105,7 +101,7 @@
         }
         ,
         {
-          "label": "Primary button border", "name": "primary-btn-border", "type": 2, "value": "8C0303", "group": 1
+          "label": "Primary button border", "name": "primary-btn-border", "type": 2, "value": "fc9053", "group": 1
         }
         ,
         {
@@ -113,11 +109,11 @@
         }
         ,
         {
-          "label": "Primary button color - hover", "name": "primary-btn-bg-hover", "type": 2, "value": "8C0303", "group": 1
+          "label": "Primary button color - hover", "name": "primary-btn-bg-hover", "type": 2, "value": "fc9053", "group": 1
         }
         ,
         {
-          "label": "Primary button border - hover", "name": "primary-btn-border-hover", "type": 2, "value": "8C0303", "group": 1
+          "label": "Primary button border - hover", "name": "primary-btn-border-hover", "type": 2, "value": "fc9053", "group": 1
         }
         ,
         {
@@ -125,11 +121,11 @@
         }
         ,
         {
-          "label": "Secondary button color", "name": "secondary-btn-bg", "type": 2, "value": "8C0303", "group": 1
+          "label": "Secondary button color", "name": "secondary-btn-bg", "type": 2, "value": "fc9053", "group": 1
         }
         ,
         {
-          "label": "Secondary button border", "name": "secondary-btn-border", "type": 2, "value": "8C0303", "group": 1
+          "label": "Secondary button border", "name": "secondary-btn-border", "type": 2, "value": "fc9053", "group": 1
         }
         ,
         {
@@ -137,11 +133,11 @@
         }
         ,
         {
-          "label": "Secondary button color - hover", "name": "secondary-btn-bg-hover", "type": 2, "value": "8C0303", "group": 1
+          "label": "Secondary button color - hover", "name": "secondary-btn-bg-hover", "type": 2, "value": "fc9053", "group": 1
         }
         ,
         {
-          "label": "Secondary button border - hover", "name": "secondary-btn-border-hover", "type": 2, "value": "8C0303", "group": 1
+          "label": "Secondary button border - hover", "name": "secondary-btn-border-hover", "type": 2, "value": "fc9053", "group": 1
         }
         ,
         {
